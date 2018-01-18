@@ -1,7 +1,7 @@
-author: yanm1ng # 作者
-description: yanm1ng's blog
-keyword: hexo-theme, vuejs
-favicon: 
+author: edupang
+description: edupang's tech blog
+keyword: edupang, education, developer
+favicon: http://img.edupang.com/images/common/favicon.ico
 
 excerpt_link: Read more
 
@@ -9,21 +9,21 @@ menu:
  Home: /
  Tags: /tags/
  Archives: /archives/
- Projects: /project/
- About: /about/
+# Projects: /project/
+# About: /about/
 
 # highlight
 highlight:
   tomorrow
 
 # catalog
-catalog: true
+catalog: false
 
 # donate
-donate: true
+donate: false
 
 # qrcode
-qrcode: true
+qrcode: false
 
 # comment
 # you can set gitment or uyan
